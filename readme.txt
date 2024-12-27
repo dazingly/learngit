@@ -9,3 +9,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 I am tired.
+我正在dev上开发。
+开发完成。
